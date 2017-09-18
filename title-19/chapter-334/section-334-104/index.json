@@ -1,0 +1,17 @@
+{
+  "path": "/aloha-io/title-19/chapter-334/section-334-104/",
+  "title": "Least restrictive level of service",
+  "type": "hrs_section",
+  "structure": {
+    "volume": "6",
+    "chapter": "334",
+    "section": "334-104"
+  },
+  
+  "prev": "https://sammade.github.io/aloha-io/title-19/chapter-334/section-334-103/",
+  
+  
+  "next": "https://sammade.github.io/aloha-io/title-19/chapter-334/section-334-105/",
+  
+  "context": "[§334-104] Least restrictive level of service. The system shall be developed in such a way that clients may move within the system to the most appropriate, least restrictive level of service. The system shall also allow for direct referral of clients, without requiring that a person pass through the entire system to reach the most appropriate level. [L 1980, c 221, pt of §2] "
+}
